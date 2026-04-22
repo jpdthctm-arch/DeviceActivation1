@@ -5,7 +5,7 @@
  "Allowoffline":true
  ),
  (
- "device_id:"30139c58d4d54d09",
+ "device_id:"61c734d0a941fe77",
  "key":"premjayprakashf",
 "expirydate":01-01-2090
 "Allowofline":false
